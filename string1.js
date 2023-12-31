@@ -1,0 +1,8 @@
+console.log("this ismy another file")
+console.log(`this is string${1==5}`)
+const str=new String("bhupendra paliwal")
+console.log(str.length)
+console.log(str.toUpperCase())
+console.log(str.indexOf(' '))
+console.log(str.slice(4,9))
+console.log(str.substring(1,5))
